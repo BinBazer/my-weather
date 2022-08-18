@@ -2,7 +2,6 @@ import React from "react";
 import './Board.css';
 
 const Board = (props) => {
-        console.log(props)
     return (
         <div className="Board" >
             <div className="small-weather">
