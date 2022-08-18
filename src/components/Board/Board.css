@@ -1,0 +1,27 @@
+.Board{
+    width: 172px;
+    height: 147px;
+    border-right: 4px solid black;
+}
+
+.small-icon{
+    width: 50px;
+    height: 50px;
+    margin: 25px 0 0 25px;
+}
+
+.small-weather{
+    display: flex;
+}
+
+.small-temp{
+    margin: 39px 0 0 30px;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.small-date{
+    margin: 10px 0 0 30px;
+    font-size: 20px;
+}
+

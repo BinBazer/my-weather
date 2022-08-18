@@ -1,0 +1,22 @@
+.city-name{
+    font-size: 35px;
+}
+
+.date{
+    font-size: 20px;
+}
+
+.details{
+    display: flex;
+}
+
+.wind,.weather-details{
+    font-family: cursive;
+    margin: 15px 0 0 0;
+    width: 250px;
+    height: 135px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+

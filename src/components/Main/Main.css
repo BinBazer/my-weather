@@ -1,0 +1,13 @@
+.Main{
+    width: 200px;
+}
+
+.icon{
+    width: 170px;
+    height: 170px;
+}
+
+.temp{
+    font-size: 60px;
+    margin: -35px 50px;
+}

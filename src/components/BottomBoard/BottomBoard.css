@@ -1,0 +1,7 @@
+.BottomBoard {
+    display: flex;
+}
+
+.Board:last-child {
+    border-right: none;
+}
